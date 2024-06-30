@@ -3,7 +3,7 @@ title: "A Trusted Cross-Platform Live Migration Technology for Confidential Cont
 collection: publications
 permalink: /publication/2024-05-CoCoMigration.md
 excerpt: '<u>Zhaoyang Geng</u>, Zhennan Min, Wenhao Wang'
-date: 2024-05
+date: 2024-05-01
 venue: '信息安全学报(CCF B)'
 paperurl: 'https://zhaoyang-geng.github.io/files/CoCoMigration.pdf'
 ---

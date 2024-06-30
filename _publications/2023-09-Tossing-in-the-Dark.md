@@ -3,7 +3,7 @@ title: "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Netw
 collection: publications
 permalink: /publication/2023-09-Tossing-in-the-Dark.md
 excerpt: 'Zihao Wang, Di Tang, XiaoFeng Wang, Wei He, <u>Zhaoyang Geng</u>, Wenhao Wang'
-date: 2023-09
+date: 2023-09-01
 venue: 'USENIX Security 2024 (CCF-A)'
 paperurl: 'https://zhaoyang-geng.github.io/files/groan.pdf'
 ---
