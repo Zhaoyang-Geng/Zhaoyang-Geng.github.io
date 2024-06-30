@@ -14,11 +14,16 @@ Education
 * M.S. in University of Chinese Academic of Science *Sept. 2021-Jan. 2025*
 * B.S. in Nanjing University of Posts and Telecommunications *Sept. 2017-July. 2021*
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Patents
 ======
-* Container migration methods, systems, and computer-readable storage media
-    Wenhao Wang, Zhaoyang Geng, Xiangyi Xu, Yier Jin
-    Chinese Patent
+* Container migration methods, systems, and computer-readable storage media(Chinese Patent)
+  * Wenhao Wang, Zhaoyang Geng, Xiangyi Xu, Yier Jin
 
 Project experience
 ======
@@ -80,12 +85,6 @@ Skills
   * C/C++
   * Python
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
