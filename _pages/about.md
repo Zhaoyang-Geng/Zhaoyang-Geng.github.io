@@ -10,4 +10,4 @@ I am graduated from [Nanjing University of Posts and Telecommunications(NJUPT)](
 
 News
 ======
-Here is no news for me.
+I am preparing for the IELTS exam now.
