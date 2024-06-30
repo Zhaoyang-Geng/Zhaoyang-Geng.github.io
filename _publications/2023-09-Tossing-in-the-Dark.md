@@ -1,12 +1,11 @@
 ---
 title: "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection"
 collection: publications
-permalink: /publication/2023-09-Tossing-in-the-Dark.md
+permalink: /publication/2023-09-Tossing-in-the-Dark
 excerpt: 'Zihao Wang, Di Tang, XiaoFeng Wang, Wei He, <u>Zhaoyang Geng</u>, Wenhao Wang'
 date: 2023-09-01
 venue: 'USENIX Security 2024 (CCF-A)'
 paperurl: 'https://zhaoyang-geng.github.io/files/groan.pdf'
-citation: 
 ---
 
 Although Trojan attacks on deep neural networks (DNNs) have been extensively studied, the threat of run-time Trojan injection has only recently been brought to attention. Unlike data poisoning attacks that target the training stage of a DNN model, a run-time attack executes an exploit such as Rowhammer on memory to flip the bits of the target model and thereby implant a Trojan. This threat is stealthier but more challenging, as it requires flipping a set of bits in the target model to introduce an effective Trojan without noticeably downgrading the model’s accuracy. This has been achieved only under the less realistic assumption that the target model is fully shared with the adversary through memory, thus enabling them to flip bits across all model layers, including the last few layers.
